@@ -2,7 +2,7 @@
 
 # 👋 Olá, eu sou Guilherme!
 
-### 💻 Desenvolvedor | 🚀 Programador | 🎯 Entusiasta de Tecnologia
+### 💻 Desenvolvedor | 🎯 Entusiasta de Tecnologia
 
 </div>
 
@@ -10,8 +10,8 @@
 
 ## 🧑‍💻 Sobre mim
 
-- 🔭 Atualmente estou trabalhando em projetos pessoais
-- 🌱 Estou aprendendo **C++ e desenvolvimento de software**
+- 🔭 Atualmente estou estudando Desenvolvimento de Sistemas no Senai Cyber e IA
+- 🌱 Estou aprendendo C++
 - 💻 Gosto de programação e tecnologia
 - 🎯 Meu objetivo é evoluir cada vez mais como desenvolvedor
 - 📚 Sempre aprendendo algo novo
@@ -26,10 +26,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" alt="GitHub"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" alt="VS Code"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" alt="Linux"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" alt="HTML5"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" alt="CSS3"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript"/>
 
 </div>
 
@@ -47,31 +43,7 @@
 
 ---
 
-## 🚀 Projetos
-
-### 🔹 Projeto 1
-
-> Descrição do seu projeto aqui.
-
-**Tecnologias:** C++, Git
-
-### 🔹 Projeto 2
-
-> Descrição do seu projeto aqui.
-
-**Tecnologias:** HTML, CSS, JavaScript
-
-### 🔹 Projeto 3
-
-> Descrição do seu projeto aqui.
-
 **Tecnologias:** C++
-
----
-
-## 📈 Minhas contribuições
-
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night)
 
 ---
 
