@@ -3,5 +3,10 @@
 <div>
 <p>Atualmente estou estudando meu Tecnico em Desenvolvimento de Sistema no Senai
 
-<div style="display: inline_block"><br>
-  <img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
+</p>
+
