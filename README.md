@@ -37,3 +37,14 @@ Se quiser acompanhar minha evolução e meus projetos:
 🐙 GitHub: GuizinM23
 🐙 Discord: Guizinkkm2
 
+<div>
+<img src="https://github-stats-extended.vercel.app/api?username=marcopvidal&rank_icon=github&show_icons=true&include_all_commits=true&theme=darcula" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=marcopvidal&hide_progress=true&langs_count=4&hide_values=true&theme=darcula" />
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+</div>
+
