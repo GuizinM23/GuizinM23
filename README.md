@@ -6,17 +6,14 @@
 
 ---
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=GuizinM23&show_icons=true&theme=dark&hide_border=false&title_color=ff7b00&icon_color=ff7b00" 
-    height="180"
-  />
+## 📊 GitHub Stats
 
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuizinM23&layout=compact&theme=dark&hide_border=false&title_color=ff7b00" 
-    height="180"
-  />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GuizinM23&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=false&title_color=ff7b00&icon_color=ff7b00&text_color=ffffff&bg_color=1e1e1e" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuizinM23&layout=compact&theme=dark&hide_border=false&title_color=ff7b00&text_color=ffffff&bg_color=1e1e1e" />
 </p>
+
 
 </div>
 
@@ -51,10 +48,3 @@ Se quiser acompanhar minha evolução e meus projetos:
 🐙 GitHub: GuizinM23
 🐙 Discord: Guizinkkm2
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GuizinM23&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=false&title_color=ff7b00&icon_color=ff7b00&text_color=ffffff&bg_color=1e1e1e" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuizinM23&layout=compact&theme=dark&hide_border=false&title_color=ff7b00&text_color=ffffff&bg_color=1e1e1e" />
-</p>
