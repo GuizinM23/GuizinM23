@@ -1,6 +1,6 @@
 <div align="center">
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=10000&pause=1000&color=192CC5&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Guilherme!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=192CC5&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Guilherme!" alt="Typing SVG" /></a>
   
 ### 💻 Desenvolvedor | 🎯 Entusiasta de Tecnologia
 
