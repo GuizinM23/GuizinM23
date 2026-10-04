@@ -1,7 +1,8 @@
 <p align="center">
-  <a href="https://github.com/GuizinM23">
-    Olá, eu sou o Guilherme!
-  </a>
+  <svg width="100%" height="120" viewBox="0 0 900 120" xmlns="http://www.w3.org/2000/svg">
+    <polygon points="0,0 900,0 900,100 450,88 0,100" fill="#152ED0"/>
+    <polygon points="0,100 450,88 900,100 900,120 0,120" fill="#0F22D0"/>
+  </svg>
 </p>
 
 <div align="center">
