@@ -45,6 +45,6 @@
 
 Se quiser acompanhar minha evolução e meus projetos:
 
--🐙 GitHub: GuizinM23
--🐙 Discord: Guizinkkm2
+🐙 GitHub: GuizinM23
+🐙 Discord: Guizinkkm2
 
